@@ -1,0 +1,46 @@
+body{
+    background-color: #709fb0;
+}
+
+.container{
+    width: 320px;
+    height: 320px;
+    margin: auto;
+    margin-top: 100px;
+} 
+
+.container h1{
+    text-align: center;
+    font-size: 30px;
+    color: #f4ebc1;
+}
+
+.row{
+    height:100px;
+}
+
+.col{
+    width: 100px;
+    height: 100px;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.col:hover{
+background-color: #1160aa;
+}
+
+.border-b{
+    border-bottom: 5px solid black;
+}
+
+.border-r{
+    border-right: 5px solid black;
+    height: 100px;
+}
+
+.winner{ 
+     color:blue;
+ }
